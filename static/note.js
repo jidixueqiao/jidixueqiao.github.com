@@ -6,7 +6,8 @@ const noteMenu = [
       {
         title: '测试文章',
         updateTime: '2023-12-13 20:23',
-        content: './note/javascript/test.json',
+        content:
+          'https://jidixueqiao.github.io/static/note/javascript/test.json',
       },
     ],
   },
