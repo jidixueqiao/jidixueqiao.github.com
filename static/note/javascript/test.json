@@ -6,6 +6,6 @@
   },
   {
     "tag": "style",
-    "content": ".text{color: red}"
+    "content": ".test{color: red}"
   }
 ]
